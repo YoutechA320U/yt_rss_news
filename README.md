@@ -2,7 +2,7 @@
 
 [yt_chat_gui](https://github.com/YoutechA320U/yt_chat_gui)ベースのRSS読み出しGUI
 
-![SS](https://https://raw.githubusercontent.com/YoutechA320U/yt_rss_news/main/yt_rss_newsSS.png?raw=true "yt_rss_news")
+![SS](https://raw.githubusercontent.com/YoutechA320U/yt_rss_news/main/yt_rss_newsSS.png?raw=true "yt_rss_news")
 
 質問は[作者のTwitter](https://twitter.com/YoutechA320U)へお願いします。
 
